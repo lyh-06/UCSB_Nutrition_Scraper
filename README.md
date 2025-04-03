@@ -15,8 +15,8 @@ cd ucsb-netnutrition-scraper
 
 2. Create a virtual environment (recommended):
 python -m venv venv
-
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+
 3. Install required packages:
 pip install -r requirements.txt
 
