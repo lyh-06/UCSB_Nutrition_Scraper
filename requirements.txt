@@ -1,0 +1,5 @@
+selenium==4.10.0
+webdriver-manager==3.8.6
+beautifulsoup4==4.12.2
+pandas==2.0.3
+argparse==1.4.0
