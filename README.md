@@ -5,7 +5,7 @@ A Python script to analyze nutrient density of foods served at the UCSB dining c
 - Scrape real-time nutritional information from https://nutrition.info.dining.ucsb.edu/NetNutrition/1#
 - Calculate nutrient density scores based on protein, fiber, vitamins, etc.
 - Filter by meal type (breakfast, lunch, dinner, brunch, all)
-- Generate top 10 lits with customizable parameters
+- Generate top 10 list with customizable parameters
 - Optionally export results to CSV file
 
 ## Installation
