@@ -90,4 +90,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License- see the LICENSE file for details.
 
 ## Disclaimer
-This tool is not affiliated with UCSB Dining services. The nutrient density calcilations are based on a simplified model and should not replace professional dietary advice.
+This tool is not affiliated with UCSB Dining services. The nutrient density calculations are based on a simplified model and should not replace professional dietary advice.
